@@ -23,7 +23,7 @@ Este GitHub é mais do que apenas um repositório de código — é um reflexo d
 - Estudos técnicos, experimentos e exploração de novas tecnologias
 - Evolução contínua na construção de aplicações Full Stackg
 
-Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade para <a href="mailto:arthuralvaro.eeerrt@gmail.com">clicar aqui e me enviar um e-mail</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/arthur-alvaro-s-garcia-25415b294/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
+Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade para <a href="mailto:arthuralvaro.eeerrt@gmail.com">clicar aqui e me enviar um e-mail</a> — ou entrar em contato pelo <a href="https://www.linkedin.com/in/arthur-alvaro-garcia/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
