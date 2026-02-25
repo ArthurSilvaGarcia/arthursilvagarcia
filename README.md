@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Oi, eu sou o Arthur Garcia, um desenvolvedor apaixonado pela área da Tecnologia da Informação!</h1>
 <p align="center">
-<a href="www.linkedin.com/in/arthur-alvaro-garcia"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="[www.linkedin.com/in/arthur-alvaro-garcia](https://www.linkedin.com/in/arthur-alvaro-garcia-25415b294/)"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/imarthur05"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:arthuralvaro.eeerrt@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
