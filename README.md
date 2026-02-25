@@ -33,5 +33,3 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
